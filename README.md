@@ -2,7 +2,7 @@
 
 cmux 기반으로 화면을 분할하여 여러 Claude 에이전트를 병렬 실행하는 Claude Code 스킬.
 
-[omc-teams](https://github.com/nicobailon/oh-my-claudecode)(tmux 기반)와 동일한 수준의 오케스트레이션을 cmux GUI 환경에서 제공합니다.
+[omc-teams](https://github.com/Yeachan-Heo/oh-my-claudecode)(tmux 기반)와 동일한 수준의 오케스트레이션을 cmux GUI 환경에서 제공합니다.
 
 ## 설치
 
